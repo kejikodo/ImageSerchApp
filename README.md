@@ -1,16 +1,13 @@
-# Laravelを使用したTo Doアプリケーションの作成
+# ReactとWebAPIを使用し、画像検索アプリを作成
 こんにちは、新人エンジニアのkejikodoです。           
-今回は、Laravelを使用して、ログイン機能付きのToDoアプリケーションを作成しました。
+今回は、ReactとWebAPIを使用して、画像検索アプリケーションを作成しました。
 
 ## 概要
-ログイン機能付きのTo Doアプリケーションです。      
-フォルダを作成して、フォルダごとにタスクを作成できるシンプルなToDoアプリを作成しました。
+シンプルな画像検索アプリケーションです。      
+WebAPIを叩くことを学ぶことができました。
 
 ## 使用言語
-HTML、CSS、PHP
-
-## サーバー、DBなど
-Linux、MYSQL、Docker
+HTML、CSS、JavaScript       
 
 ## フレームワーク
-Laravel
+React
